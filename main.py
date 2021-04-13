@@ -1,4 +1,4 @@
-from Website import create_app
+from Brighterworld-Web-App import create_app
 
 app = create_app()
 
